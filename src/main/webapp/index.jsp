@@ -2,7 +2,7 @@
 <html>
 <head>
   
-  <h2>THIS IS MY SWIGGY V.3.0</h2>
+  <h1>THIS IS MY SWIGGY V.3.0</h1>
 
 </body
 </html>
